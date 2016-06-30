@@ -1,0 +1,8 @@
+<jboss-deployment-structure>
+    <deployment>
+        <dependencies>
+            <module name="com.org.hw" services="export"/>
+        </dependencies>
+    </deployment>
+</jboss-deployment-structure>
+
